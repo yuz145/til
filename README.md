@@ -1,5 +1,7 @@
 # TIL
 
+- 2026-09-30: Go言語学習着手。型なし定数（Untyped Constants）の任意精度とIEEE 754（32bit/64bit指数・仮数）、大文字/小文字による可視性規約
+- 2026-09-29: Proxmox VEへTailscale直結。bpg/proxmoxによるIaC開通とノード・VM稼働ステータス取得、APIファースト設計の解剖
 - 2026-09-28: OCIセキュリティリストをTerraform化。Infisicalでシークレットをオンメモリ注入
 - 2026-09-27: Terraform（宣言型IaC/DAG）とGo並行モデルの概念解剖、CRS304物理ポート設計
 - 2026-09-25: 外部パケット不通障害の切り分け（tcpdump、Linuxカーネルパケット処理順序、ゾンビDNATの特定・解消）
